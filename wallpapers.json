@@ -2,27 +2,27 @@
   "wallpapers": [
     {
       "author": "8ix",
-      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/WallpaperAmoled3T.png",
-      "name": "Reduze Merge",
-      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/WallpaperAmoled3T.png"
-    },
-    {
-      "author": "8ix",
-      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/ReduzeMergeGoogle.png",
-      "name": "Reduze Merge Google",
-      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/ReduzeMergeGoogle.png"
-    },
-    {
-      "author": "8ix",
-      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/SunCloudBG.png",
+      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/Weather.png",
       "name": "Weather",
-      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/SunCloudBG.png"
+      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/WeatherP.png"
     },
     {
       "author": "8ix",
-      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/Berlin.jpeg",
-      "name": "Berlin",
-      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/Berlin.jpeg"
+      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/2018.png",
+      "name": "2018",
+      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/2018P.png"
+    },
+    {
+      "author": "8ix",
+      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/Reduze.png",
+      "name": "Reduze",
+      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/ReduzeP.png"
+    },
+    {
+      "author": "8ix",
+      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/Merge.png",
+      "name": "Merge",
+      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/MergeP.png"
     }
   ]
 }
