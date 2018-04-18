@@ -20,21 +20,9 @@
     },
     {
       "author": "8ix",
-      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/2018.png",
-      "name": "2018",
-      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/2018P.png"
-    },
-        {
-      "author": "8ix",
       "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/Merge.png",
       "name": "Merge",
       "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/MergeP.png"
-    },
-            {
-      "author": "8ix",
-      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/MergeGoogle.png",
-      "name": "Merge Google",
-      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/MergeGoogleP.png"
     },
     {
       "author": "8ix",
@@ -53,7 +41,18 @@
       "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/8ix_x_Reduze_3.png",
       "name": "8ix x Reduze 3",
       "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/8ix_x_Reduze_3_P.png"
+    },
+    {
+      "author": "8ix",
+      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/2018.png",
+      "name": "2018",
+      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/2018P.png"
+    },
+    {
+      "author": "8ix",
+      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/MergeGoogle.png",
+      "name": "Merge Google",
+      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/MergeGoogleP.png"
     }
-
   ]
 }
