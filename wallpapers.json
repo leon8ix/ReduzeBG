@@ -8,9 +8,9 @@
     },
     {
       "author": "8ix",
-      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/Dune.png",
-      "name": "Dune",
-      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/DuneP.png"
+      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/Liftoff.png",
+      "name": "Liftoff",
+      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/LiftoffP.png"
     },
     {
       "author": "8ix",
@@ -38,15 +38,9 @@
     },
     {
       "author": "8ix",
-      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/Merge.png",
-      "name": "Merge",
-      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/MergeP.png"
-    },
-    {
-      "author": "8ix",
-      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/MergeGoogle.png",
-      "name": "Merge Google",
-      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/MergeGoogleP.png"
+      "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/Dune.png",
+      "name": "Dune",
+      "thumbnail": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/DuneP.png"
     }
   ]
 }
