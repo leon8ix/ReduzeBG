@@ -18,11 +18,23 @@
     "thumbUrl": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/WeatherP.png"
   },
   {
-    "name": "Blade",
+    "name": "Turntable",
     "author": "8ix",
-    "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/Blade.png",
-    "thumbUrl": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/BladeP.png"
-  }, 
+    "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/turntable.png",
+    "thumbUrl": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/turntableP.png"
+  },
+  {
+    "name": "Wavy Pattern Teal",
+    "author": "8ix",
+    "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/pattern1-wavy-teal.png",
+    "thumbUrl": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/pattern1-wavy-teal-p.png"
+  },
+  {
+    "name": "Wavy Pattern Violet",
+    "author": "8ix",
+    "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/pattern1-wavy-violet.png",
+    "thumbUrl": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/pattern1-wavy-violet-p.png"
+  },
   {
     "name": "Heaven",
     "author": "8ix",
@@ -36,15 +48,9 @@
     "thumbUrl": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/BurstP.png"
   },
   {
-    "name": "Dune",
+    "name": "Blade",
     "author": "8ix",
-    "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/Dune.png",
-    "thumbUrl": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/DuneP.png"
-  },
-  {
-    "name": "Turntable",
-    "author": "8ix",
-    "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/turntable.png",
-    "thumbUrl": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/turntableP.png"
+    "url": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/Blade.png",
+    "thumbUrl": "https://raw.githubusercontent.com/leon8ix/ReduzeBG/master/BladeP.png"
   }
 ]
